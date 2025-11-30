@@ -1,0 +1,15 @@
+# Product Requirement Document: Claude for Structural Engineering
+**Product Manager:** Jason Yu
+**Status:** Draft
+
+## Overview
+We are launching a specialized version of Claude 5.0 Sonnet fine-tuned on structural engineering codes (IBC 2024, Eurocode) to assist architects in calculating load-bearing requirements for steel beams.
+
+## Key Features
+1. **Blueprint Analysis:** Users upload PDF blueprints. Claude identifies potential structural weaknesses.
+2. **Load Calculation:** Users query: "Calculate the shear force for a W12x26 beam spanning 20ft." Claude returns the mathematical proof.
+3. **Material Estimation:** Estimates cost of raw materials based on current steel futures.
+
+## Success Metrics
+- 95% accuracy on standard civil engineering licensure exam questions.
+- <2s latency for calculation responses.

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "RULE-001",
+    "concept": "User Personal Data Collection (PII)",
+    "action": "GDPR Compliance Review",
+    "owner": "Legal (Privacy)"
+  },
+  {
+    "id": "RULE-002",
+    "concept": "Financial Transactions / Payments",
+    "action": "PCI Security Audit",
+    "owner": "Security Engineering"
+  },
+  {
+    "id": "RULE-003",
+    "concept": "Real-time Latency Requirements",
+    "action": "Load Testing Sign-off",
+    "owner": "Core Infrastructure"
+  },
+  {
+    "id": "RULE-004",
+    "concept": "Third Party API Integration",
+    "action": "Vendor Security Review",
+    "owner": "InfoSec"
+  }
+]
